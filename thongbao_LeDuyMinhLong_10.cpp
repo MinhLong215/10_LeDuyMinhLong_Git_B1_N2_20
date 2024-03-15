@@ -8,4 +8,5 @@ int main(){
     cout << "Thay doi de kiem thu nhanh moi tao";
     cout << "them 1 dong lenh trong feature-new";
     cout << "them 1 dong lenh trong feature-new";
+    cout << "them 1 dong lenh trong feature-new";
 }
