@@ -9,4 +9,6 @@ int main(){
     cout << "them 1 dong lenh trong feature-new";
     cout << "them 1 dong lenh trong feature-new";
     cout << "them 1 dong lenh trong feature-new";
+    cout << "sua ben doan main";
+    cout << "sua ben doan main";
 }
